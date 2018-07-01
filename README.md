@@ -11,4 +11,4 @@ Master: 		Engineering & Policy Analysis, TU Delft
 
 ## Download the 'final assignment' folder of underneath link
 ## https://github.com/quaquel/epa1361_open
-## Place the documents of 'Scripts and Data' in the folder to reproduce the results
+## Place the documents of 'Scripts and Data' in the downloaded folder to reproduce the results
