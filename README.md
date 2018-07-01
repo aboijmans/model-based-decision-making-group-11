@@ -6,7 +6,7 @@ Meyke Nering Bögel	4294998
 Anneroos Renaud 	  4305132
 Nena Roes 		      4290119	
 
-Course: 		EPA 1361, Model Based Decision-making
+Course: 		EPA 1361, Model-based Decision-making
 Master: 		Engineering & Policy Analysis, TU Delft
 
 ## Download the 'final assignment' folder of underneath link
