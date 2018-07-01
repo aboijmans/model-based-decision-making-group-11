@@ -9,6 +9,6 @@ Nena Roes 		      4290119
 Course: 		EPA 1361, Model Based Decision-making
 Master: 		Engineering & Policy Analysis, TU Delft
 
-# Download the 'final assignment' folder of underneath link
-# https://github.com/quaquel/epa1361_open
-# Place the documents of 'Scripts and Data' in the folder to reproduce the results
+## Download the 'final assignment' folder of underneath link
+## https://github.com/quaquel/epa1361_open
+## Place the documents of 'Scripts and Data' in the folder to reproduce the results
